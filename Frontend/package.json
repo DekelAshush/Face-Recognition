@@ -21,8 +21,8 @@
     "clarifai-nodejs-grpc": "^11.9.4",
     "cors": "^2.8.5",
     "particles-bg": "^2.5.5",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
     "react-parallax-tilt": "^1.7.309",
     "reactstrap": "^9.2.3",
     "tachyons": "^4.12.0"
